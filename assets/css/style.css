@@ -9,3 +9,36 @@
 #button {
 	margin-top: 5px;
 }
+
+.jumbotron {
+	background-color: #95969D;
+	letter-spacing: 1px;
+	text-shadow: 2px 2px 2px #CCCCCC;
+	font-family: 'Lato', sans-serif;
+}
+
+hr {
+	content: '';
+	display: block;
+	margin-top: 2px;
+	border-top: 1px solid #8c8b8b;
+	border-bottom: 1px solid #fff;
+}
+
+.panel-heading {
+	font-family: 'Merriweather', serif;
+	background-color: #BF8B85 !important;
+	background-image: none !important;
+}
+
+body {
+	background-image: url("../images/stardust.png")
+}
+
+.panel {
+	font-family: 'Merriweather', serif;
+}
+
+#giphy {
+	width: 100%;
+}
